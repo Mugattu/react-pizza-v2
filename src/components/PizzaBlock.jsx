@@ -4,7 +4,7 @@ function PizzaBlock({ title, price }) {
   const [pizzaCount, setPizzaCount] = useState(0);
 
   const onClickAdd = () => {
-    setPizzaCount(pizzaCount + 1);
+    setPizzaCount(pizzaCount + 2);
   };
 
   return (

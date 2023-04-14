@@ -9,7 +9,7 @@ import PizzaBlock from "./components/PizzaBlock";
 
 function App() {
   return (
-    <div className="wrapper">
+    <div className="wrappersss">
       <Header />
       <div className="content">
         <div className="container">
